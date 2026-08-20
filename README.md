@@ -15,7 +15,6 @@
 
 Cricket • Technology • Finance • Business
 
-## 📊 My GitHub Stats
 
 ![Snehith's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisnehith36-cyber&show_icons=true)
 
