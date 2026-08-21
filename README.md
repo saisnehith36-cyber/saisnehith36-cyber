@@ -2,6 +2,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/saisnehith36-cyber/saisnehith36-cyber/output/github-snake-dark.svg)
 
+<img src="YOUR-GIF-LINK" width="250">
+
 
 
 
