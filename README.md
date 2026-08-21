@@ -19,5 +19,8 @@ Cricket • Technology • Finance • Business
 
 ![GitHub Metrics](./github-metrics.svg)
 
+## 🐍 My Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/saisnehith36-cyber/saisnehith36-cyber/output/github-snake-dark.svg)
 
 
