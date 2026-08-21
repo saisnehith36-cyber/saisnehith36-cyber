@@ -16,7 +16,8 @@
 Cricket • Technology • Finance • Business
 
 
-github-readme-stats.vercel.app
+
+![GitHub Metrics](./github-metrics.svg)
 
 
 
