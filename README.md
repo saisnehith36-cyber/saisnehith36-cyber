@@ -26,7 +26,6 @@ Cricket • Technology • Finance • Business
 
 
 
-![GitHub Metrics](./github-metrics.svg)
 
 
 
